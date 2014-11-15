@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caesar\'s judgment</string>
+    <string name="hello_world">Thumbs Up</string>
+    <string name="action_settings">Settings</string>
+    <string name="thumbs">Thumbs</string>
+    <string name="thumbsdown">thumbsdown</string>
+
+</resources>
